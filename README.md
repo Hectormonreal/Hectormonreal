@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **H<h1 align="center">
   👋 ¡Hola, soy Héctor!  
 </h1>
