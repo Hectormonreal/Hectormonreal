@@ -46,11 +46,29 @@ En el ciclo de SMX trabajamos:
 ## 🚀 Mis proyectos
 Aquí añadiré algunos de mis trabajos destacados:
 
-### 📁 Proyecto 1 — (Título que me pasarás)
-> Aquí escribiré una descripción clara y profesional cuando me pases el proyecto.
+### 📁 Proyecto 1 — Galería Web Personal (hector-galeria26)
+🌐 **Página:** https://hectormonreal.github.io/hector-galeria26/  
+📂 **Repositorio:** https://github.com/Hectormonreal/hector-galeria26  
 
-### 📁 Proyecto 2 — (Título que me pasarás)
-> Igualmente, añadiré descripción cuando me pases el segundo proyecto.
+Este proyecto es una **galería web personal** creada con HTML donde muestro imágenes de forma ordenada y visual.  
+Es un ejemplo de página web estática publicada con **GitHub Pages**, ideal para practicar estructura HTML, rutas de imágenes y diseño básico.
+
+**Tecnologías utilizadas:**  
+- HTML  
+- GitHub Pages  
+
+---
+
+### 📁 Proyecto 2 — Mini Projectes 1
+📂 **Repositorio:** https://github.com/Hectormonreal/miniprojectes1  
+
+Un proyecto sencillo en **HTML**, uno de mis primeros trabajos de desarrollo web.  
+Demuestra conocimientos iniciales en estructura de una página web, organización de archivos y uso de GitHub como repositorio.
+
+**Tecnologías utilizadas:**  
+- HTML  
+- Git / GitHub
+
 
 ---
 
@@ -65,22 +83,8 @@ Aquí añadiré algunos de mis trabajos destacados:
 📧 Email: hectormonrealmonteserin@gmail..com  
 ---
 
-### ✨ Animación decorativa (HTML + CSS)
-```html
-<div align="center">
-  <img src="https://i.gifer.com/origin/40/40f964fc4780c3e502daf41ccbd29fe4_w200.gif" width="120">
-  <p>Gracias por visitar mi perfil 🙌</p>
-</div>
-ectormonreal/Hectormonreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
